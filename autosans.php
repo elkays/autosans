@@ -10,7 +10,7 @@ $merah = "\e[91m";
 
 echo " Subscribe Youtube Langit Malaka :D \n ";
 echo " $merah INFO! ";
-echo file_get_contents("https://pastebin.com/YxYV4N3T");
+echo file_get_contents("https://pastebin.com/raw/YxYV4N3T");
 echo " \n";
 echo "$hijau Contact Me : \n";
 echo " Website : http://elka.my.id \n";
