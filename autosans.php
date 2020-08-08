@@ -8,13 +8,13 @@ $hijau = "\e[92m";
 $merah = "\e[91m";
 
 
-echo " Subscribe Youtube Langit Malaka :D \n ";
+echo " Subscribe Youtube SEKODE :D \n ";
 echo " $merah INFO! ";
 echo file_get_contents("https://pastebin.com/raw/YxYV4N3T");
 echo " \n";
 echo "$hijau Contact Me : \n";
-echo " Website : http://elka.my.id \n";
-echo " Email : admin@elka.my.id \n";
+echo " Website : http://dai.my.id \n";
+echo " Email : ask@dai.my.id \n";
 echo " \n \n";
 echo " ~~~~~~ AUTO VISITOR BLOG 2020 ~~~~~\n  ";
 echo ' URL POSTINGAN MU !!!: ';
